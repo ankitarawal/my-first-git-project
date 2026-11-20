@@ -4,7 +4,7 @@ My first repository to learn Git and GitHub.
 # My First Git Project 🚀
 
 ## About
-Welcome to my first GitHub repository!
+Welcome to my first GitHub repository slowly and surely!
 
 I created this repository to learn Git and GitHub from scratch.
 
