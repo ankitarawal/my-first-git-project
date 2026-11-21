@@ -26,9 +26,15 @@ I created this repository to learn Git and GitHub from scratch.
 
 ## About Me
 
+<<<<<<< HEAD
 I'm a beginner programmer exploring software development and building projects.
 
 I enjoy learning coding through daily practice.
 
 
+=======
+I'm a beginner programmer exploring software development and building my technical skills.
+
+I prefer learning programming through practical projects.
+>>>>>>> conflict-practice
 
