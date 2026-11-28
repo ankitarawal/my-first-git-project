@@ -29,3 +29,4 @@ I'm a beginner programmer exploring software development and building my technic
 I prefer learning programming through practical projects.
 I enjoy learning coding through daily practice.
 
+I am learning project building and programming.
